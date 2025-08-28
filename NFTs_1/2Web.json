@@ -1,0 +1,42 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Soul Fantasy #2 - @PavelVand - Succubus Maid",
+  "series_number": 2,
+  "collection": {
+    "id": "1e3129e3-bb56-4e18-8c5f-93fb3e758ec8",
+    "name": "Soul Fantasy",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Create SoulFantasy:\r\n1)Basic (random) (0.15 XCH): \r\nsend XCH to adress xch15dhq9av7aujx4u0v33allgn44td7exa8nvyuy7dxftjyg27r40gsyde5uq with memo \u0022@your_nickname receiving_address\u0022 \r\nand make a post mentioning @SoulFantasy8.\r\n\r\n2)Special cosplay or other wishes (0.25 XCH):\r\nsend XCH to adress xch15dhq9av7aujx4u0v33allgn44td7exa8nvyuy7dxftjyg27r40gsyde5uq with memo \u0022@your_nickname receiving_address your_wishes\u0022 \r\nand make a post mentioning @SoulFantasy8.\r\n\r\nWithin 24 hours you will receive your SoulFantasy.\r\n\r\nIf your wishes do not comply with the rules of Chia Network\u0027s blockchain or forgot to specify \u0022your_wishes\u0022, you will receive a basic SoulFantasy.\r\nIf you sent XCH by accident, forgot to specify \u0022@your_nickname\u0022 or \u0022receiving_address\u0022 or less than the required amount - you will not receive nft."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/soulfantasy8/CheckOut/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/soulfantasy8/CheckOut/refs/heads/main/baner.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Username",
+      "value": "@PavelVand"
+    },
+    {
+      "trait_type": "Cosplay",
+      "value": "Succubus Maid"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Bedroom"
+    },
+    {
+      "trait_type": "Nameplate",
+      "value": "Tree"
+    }
+  ]
+}
